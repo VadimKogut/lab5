@@ -1,0 +1,7 @@
+com\example\orderservice\util\OrderCodeGenerator.class
+com\example\orderservice\OrderServiceApplication.class
+com\example\orderservice\config\AppConfig.class
+com\example\orderservice\repository\OrderRepository.class
+com\example\orderservice\service\OrderServiceImpl.class
+com\example\orderservice\service\OrderService.class
+com\example\orderservice\model\Order.class
